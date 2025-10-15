@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Project\\PRN_C#\\DemoUnitTest_ConsoleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Project\\PRN_C#\\DemoUnitTest_ConsoleApp\\UnitTest\\UnitTest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UnitTest\\UnitTest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9311213-A087-4261-82AE-A820C23A74A7}|DemoUnitTest_ConsoleApp\\DemoUnitTest_ConsoleApp.csproj|e:\\project\\prn_c#\\demounittest_consoleapp\\demounittest_consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9311213-A087-4261-82AE-A820C23A74A7}|DemoUnitTest_ConsoleApp\\DemoUnitTest_ConsoleApp.csproj|solutionrelative:demounittest_consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9311213-A087-4261-82AE-A820C23A74A7}|DemoUnitTest_ConsoleApp\\DemoUnitTest_ConsoleApp.csproj|e:\\project\\prn_c#\\demounittest_consoleapp\\demounittest_consoleapp\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9311213-A087-4261-82AE-A820C23A74A7}|DemoUnitTest_ConsoleApp\\DemoUnitTest_ConsoleApp.csproj|solutionrelative:demounittest_consoleapp\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9311213-A087-4261-82AE-A820C23A74A7}|DemoUnitTest_ConsoleApp\\DemoUnitTest_ConsoleApp.csproj|e:\\project\\prn_c#\\demounittest_consoleapp\\demounittest_consoleapp\\demounittest_consoleapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F9311213-A087-4261-82AE-A820C23A74A7}|DemoUnitTest_ConsoleApp\\DemoUnitTest_ConsoleApp.csproj|solutionrelative:demounittest_consoleapp\\demounittest_consoleapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Project\\PRN_C#\\DemoUnitTest_ConsoleApp\\UnitTest\\UnitTest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UnitTest\\UnitTest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 402,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "E:\\Project\\PRN_C#\\DemoUnitTest_ConsoleApp\\UnitTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UnitTest\\UnitTest1.cs",
+              "ToolTip": "E:\\Project\\PRN_C#\\DemoUnitTest_ConsoleApp\\UnitTest\\UnitTest1.cs",
+              "RelativeToolTip": "UnitTest\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T03:56:11.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitTest.csproj",
+              "DocumentMoniker": "E:\\Project\\PRN_C#\\DemoUnitTest_ConsoleApp\\UnitTest\\UnitTest.csproj",
+              "RelativeDocumentMoniker": "UnitTest\\UnitTest.csproj",
+              "ToolTip": "E:\\Project\\PRN_C#\\DemoUnitTest_ConsoleApp\\UnitTest\\UnitTest.csproj",
+              "RelativeToolTip": "UnitTest\\UnitTest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-08T08:30:28.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DemoUnitTest_ConsoleApp",
+              "DocumentMoniker": "E:\\Project\\PRN_C#\\DemoUnitTest_ConsoleApp\\DemoUnitTest_ConsoleApp\\DemoUnitTest_ConsoleApp.csproj",
+              "RelativeDocumentMoniker": "DemoUnitTest_ConsoleApp\\DemoUnitTest_ConsoleApp.csproj",
+              "ToolTip": "E:\\Project\\PRN_C#\\DemoUnitTest_ConsoleApp\\DemoUnitTest_ConsoleApp\\DemoUnitTest_ConsoleApp.csproj",
+              "RelativeToolTip": "DemoUnitTest_ConsoleApp\\DemoUnitTest_ConsoleApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-08T08:27:11.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "E:\\Project\\PRN_C#\\DemoUnitTest_ConsoleApp\\DemoUnitTest_ConsoleApp\\Calculator.cs",
+              "RelativeDocumentMoniker": "DemoUnitTest_ConsoleApp\\Calculator.cs",
+              "ToolTip": "E:\\Project\\PRN_C#\\DemoUnitTest_ConsoleApp\\DemoUnitTest_ConsoleApp\\Calculator.cs",
+              "RelativeToolTip": "DemoUnitTest_ConsoleApp\\Calculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T08:21:19.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Project\\PRN_C#\\DemoUnitTest_ConsoleApp\\DemoUnitTest_ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "DemoUnitTest_ConsoleApp\\Program.cs",
+              "ToolTip": "E:\\Project\\PRN_C#\\DemoUnitTest_ConsoleApp\\DemoUnitTest_ConsoleApp\\Program.cs",
+              "RelativeToolTip": "DemoUnitTest_ConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T08:19:05.844Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 178,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

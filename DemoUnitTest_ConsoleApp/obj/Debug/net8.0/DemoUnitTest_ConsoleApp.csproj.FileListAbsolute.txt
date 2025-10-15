@@ -1,0 +1,17 @@
+E:\Project\PRN_C#\DemoUnitTest_ConsoleApp\DemoUnitTest_ConsoleApp\bin\Debug\net8.0\DemoUnitTest_ConsoleApp.exe
+E:\Project\PRN_C#\DemoUnitTest_ConsoleApp\DemoUnitTest_ConsoleApp\bin\Debug\net8.0\DemoUnitTest_ConsoleApp.deps.json
+E:\Project\PRN_C#\DemoUnitTest_ConsoleApp\DemoUnitTest_ConsoleApp\bin\Debug\net8.0\DemoUnitTest_ConsoleApp.runtimeconfig.json
+E:\Project\PRN_C#\DemoUnitTest_ConsoleApp\DemoUnitTest_ConsoleApp\bin\Debug\net8.0\DemoUnitTest_ConsoleApp.dll
+E:\Project\PRN_C#\DemoUnitTest_ConsoleApp\DemoUnitTest_ConsoleApp\bin\Debug\net8.0\DemoUnitTest_ConsoleApp.pdb
+E:\Project\PRN_C#\DemoUnitTest_ConsoleApp\DemoUnitTest_ConsoleApp\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Project\PRN_C#\DemoUnitTest_ConsoleApp\DemoUnitTest_ConsoleApp\obj\Debug\net8.0\DemoUnitTest_ConsoleApp.csproj.AssemblyReference.cache
+E:\Project\PRN_C#\DemoUnitTest_ConsoleApp\DemoUnitTest_ConsoleApp\obj\Debug\net8.0\DemoUnitTest_ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\PRN_C#\DemoUnitTest_ConsoleApp\DemoUnitTest_ConsoleApp\obj\Debug\net8.0\DemoUnitTest_ConsoleApp.AssemblyInfoInputs.cache
+E:\Project\PRN_C#\DemoUnitTest_ConsoleApp\DemoUnitTest_ConsoleApp\obj\Debug\net8.0\DemoUnitTest_ConsoleApp.AssemblyInfo.cs
+E:\Project\PRN_C#\DemoUnitTest_ConsoleApp\DemoUnitTest_ConsoleApp\obj\Debug\net8.0\DemoUnitTest_ConsoleApp.csproj.CoreCompileInputs.cache
+E:\Project\PRN_C#\DemoUnitTest_ConsoleApp\DemoUnitTest_ConsoleApp\obj\Debug\net8.0\DemoUnit.2EAC3C0F.Up2Date
+E:\Project\PRN_C#\DemoUnitTest_ConsoleApp\DemoUnitTest_ConsoleApp\obj\Debug\net8.0\DemoUnitTest_ConsoleApp.dll
+E:\Project\PRN_C#\DemoUnitTest_ConsoleApp\DemoUnitTest_ConsoleApp\obj\Debug\net8.0\refint\DemoUnitTest_ConsoleApp.dll
+E:\Project\PRN_C#\DemoUnitTest_ConsoleApp\DemoUnitTest_ConsoleApp\obj\Debug\net8.0\DemoUnitTest_ConsoleApp.pdb
+E:\Project\PRN_C#\DemoUnitTest_ConsoleApp\DemoUnitTest_ConsoleApp\obj\Debug\net8.0\DemoUnitTest_ConsoleApp.genruntimeconfig.cache
+E:\Project\PRN_C#\DemoUnitTest_ConsoleApp\DemoUnitTest_ConsoleApp\obj\Debug\net8.0\ref\DemoUnitTest_ConsoleApp.dll
